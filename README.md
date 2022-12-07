@@ -1,2 +1,2 @@
-# odin-recipes
-Project: Recipes (HTML,
+# odin-recipes Thai foods
+Project: Recipes (HTML)
